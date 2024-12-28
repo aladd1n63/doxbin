@@ -1,3 +1,6 @@
+# Api Documentation
+пошли нахкц нету
+
 # Doxbin
 This is a copy of the popular site [doxbin.org](https://doxbin.org) meant for releasing doxxes.
 
